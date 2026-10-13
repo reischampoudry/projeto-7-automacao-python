@@ -1,6 +1,10 @@
 
 # Projeto 7 — Automação de Testes com Python
 
+## Status
+
+Este repositório contém a estrutura preparatória do Projeto 7. Os testes em `main.py` ainda não executam automações; a implementação funcional está no [Projeto 8 — Automação com Selenium](https://github.com/reischampoudry/projeto-8-automacao-selenium).
+
 ## Sobre o projeto
 
 Este projeto faz parte da formação em QA (Quality Assurance) e prepara a estrutura inicial para a automação de testes do aplicativo Urban Routes.
